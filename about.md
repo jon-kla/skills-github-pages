@@ -9,4 +9,4 @@ title: "About me"
 About  
 me
 
-![Bild_Test](https://datawrapper.dwcdn.net/nj8Q6/1/)
+![Datawrapper Grafik](https://datawrapper.dwcdn.net/nj8Q6/1/)
