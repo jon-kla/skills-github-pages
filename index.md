@@ -1,7 +1,4 @@
 ---
-title: Welcome to my blog II
+title: "Home"
 ---
-# Headline 1
-New Text that I want to be displayed.  
-And I can add a new line. Awesome.
-
+Let me explain, what this blog is all about.

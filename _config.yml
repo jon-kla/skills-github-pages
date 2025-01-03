@@ -1,3 +1,7 @@
 theme: minima
 author: "jon-kla"
 title: "Mein Blog"
+
+header_pages:
+  - impressum.md
+  - about.md
